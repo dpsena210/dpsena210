@@ -40,5 +40,3 @@ I'm a Fullstack developer with solid experience in both frontend and backend dev
 - 📧 Email: danrley2109@gmail.com  
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpsena210&layout=compact&theme=tokyonight)
