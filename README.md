@@ -14,7 +14,7 @@ I'm a Fullstack developer with solid experience in both frontend and backend dev
 - **Java** ☕ | **Spring Boot** 🍩  
 - **Python** 🐍 | **Flask**  
 - **JavaScript / TypeScript**  
-- **Angular** (●'◡'●)  
+- **Angular**
 - **React**
 
 ### ⚙️ DevOps & Infrastructure
